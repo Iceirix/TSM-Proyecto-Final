@@ -1,6 +1,6 @@
 # 🤖 Navegación Autónoma de Robot Móvil Diferencial
 
-## Proyecto Final – Robótica Móvil | Primavera 2025
+## Proyecto Final – Robótica Móvil | Semestre 2026-1
 **Universidad Nacional Autónoma de México (UNAM)**  
 Facultad de Ingeniería – División de Ingeniería Mecánica e Industrial (DIMEI)  
 Carrera: Ingeniería Mecatrónica
